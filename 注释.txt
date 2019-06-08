@@ -1,0 +1,1 @@
+修改generatorConfig.xml下的jdbcConnection和pojo，mapper，mapper映射目录
